@@ -1,0 +1,6 @@
+{
+  "name": "LFCP Audio e Iluminación",
+  "description": "Servicios profesionales de audio e iluminación para eventos exclusivos, renta de backline y producción técnica de primer nivel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
